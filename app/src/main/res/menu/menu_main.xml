@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_profile"
+        android:orderInCategory="100"
+        android:icon="@drawable/img_play_games"
+        android:title="Profile"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_game"
+        android:orderInCategory="100"
+        android:icon="@drawable/img_play_games"
+        android:title="Game"
+        app:showAsAction="never" />
+<!--    <item-->
+<!--        android:id="@+id/action_star"-->
+<!--        android:orderInCategory="100"-->
+<!--        android:title="Đánh giá"-->
+<!--        android:icon="@drawable/img_icon_rate"-->
+<!--        app:showAsAction="never" />-->
+    <item
+        android:id="@+id/action_share"
+        android:orderInCategory="100"
+        android:icon="@drawable/img_icon_share"
+        android:title="Share"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:icon="@drawable/img_icon_share"
+        android:title="Sign out"
+        app:showAsAction="never" />
+</menu>

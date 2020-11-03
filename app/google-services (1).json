@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021832472692",
+    "firebase_url": "https://capstone2-82b47.firebaseio.com",
+    "project_id": "capstone2-82b47",
+    "storage_bucket": "capstone2-82b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021832472692:android:6ff6d9bf64f167622d4921",
+        "android_client_info": {
+          "package_name": "com.lehoa.hoctienganh.Activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021832472692-rm1tftkhhgn3t8b4d04pdo9f14662o19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPVyfPGG7hUnnhVQ4pVCTZUNBQDPkn0vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021832472692-rm1tftkhhgn3t8b4d04pdo9f14662o19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

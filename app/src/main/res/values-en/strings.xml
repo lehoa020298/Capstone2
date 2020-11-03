@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">English For Kid</string>
+    <string name="title_activity_lession">LessionActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="ad_full">ca-app-pub-5590642543350961/3802707665</string>
+    <string name="ad_banner">ca-app-pub-5590642543350961/8339706716</string>
+</resources>
